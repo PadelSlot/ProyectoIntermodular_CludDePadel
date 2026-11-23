@@ -1,4 +1,4 @@
-**MEMORIA DEL PROYECTO INTERMOLECULAR**  
+**MEMORIA DEL PROYECTO INTERMODULAR**  
 Ciclo Formativo de Grado Superior en DAW  
 ---
 
