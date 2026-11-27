@@ -1,3 +1,9 @@
+COEVALUACIÓN:
+Javier Oliveros Lepe: 90%
+Pablo Márquez López: 90%
+Alberto Rueda Romero: 90%
+Ismael Frías Fernández: 90%
+
 Con el objetivo de garantizar el estricto cumplimiento de la Ley de Propiedad Intelectual y las directrices establecidas en el marco normativo del proyecto, se ha llevado a cabo una auditoría exhaustiva de todos los recursos gráficos, vectoriales, tipográficos y animados integrados en PadelSlot SaaS. Este proceso asegura la trazabilidad legal de cada activo digital empleado en la interfaz, verificando que todos los elementos provengan de fuentes abiertas libres de regalías o correspondan a desarrollos propios del equipo.
 # Inventario multimedia y registro de licencias · PadelSlot
 
